@@ -1,3 +1,5 @@
+Note to self: `sudo npm install --global cross-env` to get rid of `cross-env` errors before running `yarn build-deps` and `yarn watch`.
+
 # Pre-trained TensorFlow.js models
 
 This repository hosts a set of pre-trained models that have been ported to
